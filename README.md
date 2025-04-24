@@ -1,2 +1,15 @@
-This is My first Assignmentoutput for class INFO 670
-<img width="1800" alt="Screenshot 2025-04-10 at 8 26 52 AM" src="https://github.com/user-attachments/assets/4a739575-9106-4ebd-acb8-f1e38e8cad63" />
+### **INFO 670 - Cross Platform Mobile Application Development**
+
+This repository contains all the assignments I have completed—and will complete—during this course.
+
+---
+
+#### **Assignments:**
+
+- **Assignment 1:** `MyFirstReactNative`  
+- **Assignment 2:** `thelistapp`
+
+---
+
+**Note:**  
+Each application folder has a separate `README.md` file that describes the respective application in detail.
