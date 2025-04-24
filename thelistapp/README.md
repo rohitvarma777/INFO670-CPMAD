@@ -16,7 +16,7 @@ The app is simple to use. Users can:
 - **Create tasks**
 - **Delete tasks** if they don’t need them
 - Click on a task to mark it as completed
-- Use a **“Mark All as Completed”** button to complete all tasks at once
+- Use a **“Mark All Complete”** button to complete all tasks at once
 
 ---
 
@@ -33,7 +33,7 @@ Displays **completed tasks** in **grey color** with **strikethrough text** to sh
 <img width="1800" alt="Screenshot 2025-04-24 at 10 46 03 AM" src="https://github.com/user-attachments/assets/75baa05a-63f9-4577-8972-a114ff96baa2" />
 
 **Screenshot 3:**  
-Shows the result after clicking the **"Mark All as Completed"** button—where all tasks are marked complete.  
+Shows the result after clicking the **"Mark All Complete"** button—where all tasks are marked complete.  
 
 <img width="1800" alt="Screenshot 2025-04-24 at 10 46 14 AM" src="https://github.com/user-attachments/assets/fcf9bedc-2ef9-4489-8b6e-3c12ff0cd54d" />
 
