@@ -13,7 +13,7 @@ For this assignment, I created a basic **list view** of the app where student em
 #### **Basic Use**
 
 The app is simple to use. Users can:
-- **Create tasks**
+- **Create tasks**, **Scroll tasks**
 - **Delete tasks** if they don’t need them
 - Click on a task to mark it as completed
 - Use a **“Mark All Complete”** button to complete all tasks at once
