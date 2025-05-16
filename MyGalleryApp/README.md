@@ -1,7 +1,7 @@
-﻿INFO 670 Cross Platform Mobile Application Development 
+**﻿INFO 670 Cross Platform Mobile Application Development**
 
-Assignment -3 \
-Title: MyGalleryApp 
+**Assignment -3**
+**Title: MyGalleryApp**
 
 Submitted by Rohit Nadimpalli 
 
@@ -55,6 +55,6 @@ These show how the app handles **error checking**—including cases like  **void
 
 **Styling**:  
 
-I have created a forest zoo theme with greens. 
+I have created a forest-zoo theme with greens. 
 
 [ref1]: Aspose.Words.ed037dc9-7c3b-41f7-a1ac-9113589c596d.001.png
