@@ -5,7 +5,7 @@
 
 Submitted by Rohit Nadimpalli 
 
-**Github Link :  Design and Purpose** 
+**Design and Purpose** 
 
 I always loved zoo since my childhood and I loved exploring animals, so when we wanted to create a galley. I wanted to create a Zoo App. 
 
