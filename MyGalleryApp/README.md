@@ -7,7 +7,7 @@ Submitted by Rohit Nadimpalli
 
 **Design and Purpose** 
 
-I always loved zoo since my childhood and I loved exploring animals, so when we wanted to create a galley. I wanted to create a Zoo App. 
+I always loved zoo since my childhood and I loved exploring animals, so when we wanted to create a gallery app. I wanted to create a Zoo App. 
 
 For this assignment, I created a basic **Gallery App** where users can **View** **animal gallery**, **Animal pictures in full screen**, and **texts. User can edit his profile.** 
 
