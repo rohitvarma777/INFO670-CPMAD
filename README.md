@@ -8,6 +8,7 @@ This repository contains all the assignments I have completed—and will complet
 
 - **Assignment 1:** `MyFirstReactNative`  
 - **Assignment 2:** `thelistapp`
+- **Assignment 3:** 'MyGalleryApp'
 
 ---
 
